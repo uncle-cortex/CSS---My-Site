@@ -1,0 +1,119 @@
+body {
+  background-color: #ADE792;
+  text-align: center;
+}
+
+div {
+  position: relative;
+  padding: 20px 0px 20px 0;
+}
+
+h1 {
+  margin: 5px;
+  padding-top: 20px;
+  font-family: "Satisfy", cursive;
+  font-size: 60px;
+  font-weight: normal;
+  color: green;
+  line-height: 200%
+}
+
+.intro {
+  color: green;
+}
+
+h3 {
+  font-family: "Quicksand", sans-serif;
+  font-size: 230%;
+  margin: 5px;
+  color: #285430;
+}
+
+hr {
+  height: 0;
+  color: #344D67;
+}
+
+p {
+  margin-top: 5px;
+  font-size: 24px;
+  font-family: "Ubuntu", sans-serif;
+}
+
+.top-container {
+  padding-top: 30px;
+  position: relative;
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.mountain {
+  height: 400px;
+  width: 50%;
+  padding-top: 50px;
+  padding-bottom: 20px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 470px;
+  top: 5px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  top: 250px;
+  left: 450px
+}
+
+.cloud-3 {
+  position: absolute;
+  top: 200px;
+  right: 250px;
+}
+
+.profile-pic {
+  width: 300px;
+  height: 300px;
+  border-radius: 50%;
+  padding-top: 10px;
+}
+
+.doctor-pic {
+  height: 200px;
+  width: 200px;
+  border-radius: 50%;
+  border-width: 1px;
+  border-style: solid;
+}
+
+.telephone {
+  height: 100px;
+  width: 100px;
+}
+
+.gif-1 {
+  height: 200px;
+  width: 200px;
+  border-radius: 50%;
+}
+
+.description {
+  width: 50%;
+  position: absolute;
+  left: 350px;
+}
+
+.footer {
+  padding: 10px;
+  font-family: "Quicksand", sans-serif;
+  font-size: 150%;
+  color: #379237;
+}
+
+.contact-me {
+  padding: 10px;
+  font-size: 170%;
+}
