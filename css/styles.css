@@ -20,11 +20,12 @@ h1 {
 
 .intro {
   color: green;
+  font-size: 140%
 }
 
 h3 {
   font-family: "Quicksand", sans-serif;
-  font-size: 230%;
+  font-size: 150%;
   margin: 5px;
   color: #285430;
 }
@@ -36,7 +37,7 @@ hr {
 
 p {
   margin-top: 5px;
-  font-size: 24px;
+  font-size: 120%;
   font-family: "Ubuntu", sans-serif;
 }
 
@@ -82,21 +83,21 @@ p {
 }
 
 .doctor-pic {
-  height: 200px;
-  width: 200px;
+  height: 350px;
+  width: 350px;
   border-radius: 50%;
   border-width: 1px;
   border-style: solid;
 }
 
 .telephone {
-  height: 100px;
-  width: 100px;
+  height: 200px;
+  width: 200px;
 }
 
 .gif-1 {
-  height: 200px;
-  width: 200px;
+  height: 350px;
+  width: 350px;
   border-radius: 50%;
 }
 
